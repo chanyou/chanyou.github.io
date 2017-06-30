@@ -226,7 +226,7 @@ a:focus {
   padding: 100px 0;
   color: black;
   height: auto;
-  background: url(../img/intro-bg4.jpg) no-repeat center center scroll;
+  background: url(../img/intro-bg4.jpg) no-repeat left left scroll;
   background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
